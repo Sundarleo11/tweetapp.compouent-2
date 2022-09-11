@@ -1,0 +1,17 @@
+com\tweetapp\model\Tweet.class
+com\tweetapp\configuration\ProducerService.class
+com\tweetapp\configuration\KafkaConfiguration.class
+com\tweetapp\exception\ExceptionMessage.class
+com\tweetapp\exception\ExceptionController.class
+com\tweetapp\model\User.class
+com\tweetapp\service\TweetService.class
+com\tweetapp\model\Reply.class
+com\tweetapp\repository\LoginRepository.class
+com\tweetapp\service\LoginService.class
+com\tweetapp\TweetAppApplication.class
+com\tweetapp\configuration\Consumer.class
+com\tweetapp\model\Login.class
+com\tweetapp\repository\TweetRepository.class
+com\tweetapp\controller\TweetController.class
+com\tweetapp\configuration\Swagger2UiConfiguration.class
+com\tweetapp\controller\LoginController.class
